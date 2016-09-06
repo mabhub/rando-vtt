@@ -1,0 +1,19 @@
+---
+# Liste chronologique des randonnées VTT
+- quand: 2016-10-02
+  quoi: Titre de la première rando
+  qui: Club organisateur
+  ou: Toulouse (31)
+- quand: 2016-10-03
+  quoi: Autre rando
+  ou: Mauvezin (32)
+  qui: Club de Mauvezin
+  combien: 15, 30, 45 km
+  gps: 43.730431, 0.877508
+  inscription: 07:30 - 08:30
+  depart: 08:00 - 09:00
+  lien: http://perdu.com
+- quand: 2016-11-18
+  quoi: La rando du test
+  ou: Lasserre (31)
+  qui: Club de Lasserre

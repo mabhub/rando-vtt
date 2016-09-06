@@ -1,0 +1,7 @@
+table, tr, td {
+    border: 1px dotted silver;
+}
+
+th, td {
+    padding: .5em;
+}
